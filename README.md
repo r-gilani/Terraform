@@ -1,9 +1,9 @@
 # Terraform
-terraform fmt
-terraform validate
-terraform init
-terraform plan
-terraform apply
+terraform fmt \n
+terraform validate \n
+terraform init \n
+terraform plan \n
+terraform apply \n
 
 
 
